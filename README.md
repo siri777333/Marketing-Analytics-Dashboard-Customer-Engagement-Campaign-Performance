@@ -160,6 +160,6 @@ Developed an interactive marketing analytics dashboard capable of identifying sa
 
 # Author
 
-**[Your Name]**
+**Kanchi Siri Chandana**
 
 **Skills:** SQL Server • Power BI • DAX • Data Cleaning • Data Visualization • Business Intelligence • Marketing Analytics
